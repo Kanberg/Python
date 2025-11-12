@@ -1,8 +1,0 @@
-print("Мой первый Python-скрипт на GitHub!")
-print("Привет, мир!")
-
-# Простая функция
-def greet(name):
-    return f"Привет, {name}!"
-
-print(greet("Программист"))
